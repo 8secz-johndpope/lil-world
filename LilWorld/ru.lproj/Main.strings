@@ -1,0 +1,153 @@
+
+/* Class = "UIButton"; normalTitle = "Много"; ObjectID = "0os-V1-GJt"; */
+"0os-V1-GJt.normalTitle" = "Много";
+
+/* Class = "UILabel"; text = "ОБРЕЗАТЬ"; ObjectID = "2PC-wy-vJw"; */
+"2PC-wy-vJw.text" = "ОБРЕЗАТЬ";
+
+/* Class = "UILabel"; text = "Set description"; ObjectID = "2ow-UN-Lwx"; */
+"2ow-UN-Lwx.text" = "Set description";
+
+/* Class = "UIButton"; normalTitle = "ОЦЕНИТЕ НАС"; ObjectID = "2yX-82-VoO"; */
+"2yX-82-VoO.normalTitle" = "ОЦЕНИТЕ НАС";
+
+/* Class = "UILabel"; text = "НАЗВАНИЕ СЕТА"; ObjectID = "8Rq-p4-tEy"; */
+"8Rq-p4-tEy.text" = "НАЗВАНИЕ СЕТА";
+
+/* Class = "UILabel"; text = "ЯРКОСТЬ"; ObjectID = "BFM-bW-Uah"; */
+"BFM-bW-Uah.text" = "ЯРКОСТЬ";
+
+/* Class = "UIButton"; normalTitle = "Мало"; ObjectID = "E7U-RH-xyR"; */
+"E7U-RH-xyR.normalTitle" = "Мало";
+
+/* Class = "UIButton"; normalTitle = "Обновить"; ObjectID = "Gox-gz-dFZ"; */
+"Gox-gz-dFZ.normalTitle" = "Обновить";
+
+/* Class = "UIButton"; normalTitle = "COLOR"; ObjectID = "MM9-hs-bOS"; */
+"MM9-hs-bOS.normalTitle" = "ЦВЕТ";
+
+/* Class = "UIButton"; normalTitle = "ДРУГОЕ"; ObjectID = "NeS-WQ-KJg"; */
+"NeS-WQ-KJg.normalTitle" = "ДРУГОЕ";
+
+/* Class = "UILabel"; text = "Навсегда. Даже когда в будущем в тему будут добавляться новые картинки"; ObjectID = "NgI-Fw-PAh"; */
+"NgI-Fw-PAh.text" = "Навсегда. Даже когда в будущем в тему будут добавляться новые картинки";
+
+/* Class = "UILabel"; text = "ПРОЗРАЧНОСТЬ"; ObjectID = "O4o-st-gQw"; */
+"O4o-st-gQw.text" = "ПРОЗРАЧНОСТЬ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PX0-rJ-avv"; */
+"PX0-rJ-avv.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "ПОДЕЛИТЬСЯ"; ObjectID = "Pd0-2X-E6y"; */
+"Pd0-2X-E6y.normalTitle" = "ПОДЕЛИТЬСЯ";
+
+/* Class = "UILabel"; text = "НАСТРОЙКИ ОБЪЕКТА"; ObjectID = "RLJ-Fm-8r6"; */
+"RLJ-Fm-8r6.text" = "НАСТРОЙКИ ОБЪЕКТА";
+
+/* Class = "UIButton"; normalTitle = "FONTS"; ObjectID = "SUF-O3-2nO"; */
+"SUF-O3-2nO.normalTitle" = "ШРИФТЫ";
+
+/* Class = "UIButton"; normalTitle = " Сделано в LIL.CITY"; ObjectID = "Svy-sR-nWp"; */
+"Svy-sR-nWp.normalTitle" = "Terms of use";
+
+"Xhg-rj-r39.normalTitle" = "Сделано в";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UQF-Jz-G6p"; */
+"UQF-Jz-G6p.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "ОСНОВНОЕ"; ObjectID = "Vmm-iU-wGl"; */
+"Vmm-iU-wGl.normalTitle" = "ОСНОВНОЕ";
+
+/* Class = "UILabel"; text = "ГАЛЕРЕЯ"; ObjectID = "WMR-od-KG0"; */
+"WMR-od-KG0.text" = "ГАЛЕРЕЯ";
+
+/* Class = "UILabel"; text = "Не удалось загрузить контент. Повторите попытку? "; ObjectID = "WQH-nY-8u0"; */
+"WQH-nY-8u0.text" = "Не удалось загрузить контент. Повторите попытку? ";
+
+/* Class = "UILabel"; text = "TITLE"; ObjectID = "X3U-qR-2oc"; */
+"X3U-qR-2oc.text" = "TITLE";
+
+/* Class = "UILabel"; text = "SET TYPE"; ObjectID = "XV1-BV-Kaq"; */
+"XV1-BV-Kaq.text" = "SET TYPE";
+
+"e2s-qn-ye0.normalTitle" = "КОНКУРС";
+
+/* Class = "UIButton"; normalTitle = "О ПРИЛОЖЕНИИ"; ObjectID = "YQX-2I-33S"; */
+"YQX-2I-33S.normalTitle" = "О ПРИЛОЖЕНИИ";
+
+/* Class = "UILabel"; text = "COLORS"; ObjectID = "YYD-ca-ANY"; */
+"YYD-ca-ANY.text" = "ЦВЕТА";
+
+/* Class = "UIButton"; normalTitle = "НОВЫЙ ПРОЕКТ"; ObjectID = "ckU-pc-ItL"; */
+"ckU-pc-ItL.normalTitle" = "НОВЫЙ ПРОЕКТ";
+
+/* Class = "UILabel"; text = "О ПРИЛОЖЕНИИ"; ObjectID = "cmX-Rj-UdX"; */
+"cmX-Rj-UdX.text" = "О ПРИЛОЖЕНИИ";
+
+/* Class = "UIButton"; normalTitle = "ВОССТАНОВИТЬ ПОКУПКИ"; ObjectID = "eFo-fY-24j"; */
+"eFo-fY-24j.normalTitle" = "ВОССТАНОВИТЬ ПОКУПКИ";
+
+/* Class = "UILabel"; text = "TITLE"; ObjectID = "f5K-Cm-Ebb"; */
+"f5K-Cm-Ebb.text" = "TITLE";
+
+/* Class = "UILabel"; text = "ПОВОРОТ"; ObjectID = "fIY-t7-Kh4"; */
+"fIY-t7-Kh4.text" = "ПОВОРОТ";
+
+/* Class = "UILabel"; text = "КУПИТЬ ПОЛНУЮ ВЕРСИЮ"; ObjectID = "gb2-b5-UFa"; */
+"gb2-b5-UFa.text" = "КУПИТЬ ПОЛНУЮ ВЕРСИЮ";
+
+/* Class = "UILabel"; text = "OPACITY"; ObjectID = "h9G-lT-0RD"; */
+"h9G-lT-0RD.text" = "ПРОЗРАЧНОСТЬ";
+
+/* Class = "UILabel"; text = "ОСНОВНОЕ"; ObjectID = "hOl-oo-MnH"; */
+"hOl-oo-MnH.text" = "ОСНОВНОЕ";
+
+/* Class = "UILabel"; text = "EDIT TEXT"; ObjectID = "iOw-PI-dfe"; */
+"iOw-PI-dfe.text" = "РЕДАКТОР ТЕКСТА";
+
+/* Class = "UIButton"; normalTitle = "МАГАЗИН"; ObjectID = "iXw-Ye-pyi"; */
+"iXw-Ye-pyi.normalTitle" = "МАГАЗИН";
+
+/* Class = "UILabel"; text = "Set title"; ObjectID = "jPl-ac-h6U"; */
+"jPl-ac-h6U.text" = "Set title";
+
+/* Class = "UIButton"; normalTitle = "КУПИТЬ"; ObjectID = "kyn-Jg-nGL"; */
+"kyn-Jg-nGL.normalTitle" = "КУПИТЬ";
+
+/* Class = "UILabel"; text = "BRIGHTNESS"; ObjectID = "lUl-sf-LH0"; */
+"lUl-sf-LH0.text" = "ЯРКОСТЬ";
+
+/* Class = "UIButton"; normalTitle = "@lilworldapp"; ObjectID = "nJk-ef-JuB"; */
+"nJk-ef-JuB.normalTitle" = "@lilworldapp";
+
+/* Class = "UILabel"; text = "МАГАЗИН"; ObjectID = "own-l0-nJS"; */
+"own-l0-nJS.text" = "МАГАЗИН";
+
+/* Class = "UIButton"; normalTitle = "СОЗДАТЬ"; ObjectID = "pta-a3-JQY"; */
+"pta-a3-JQY.normalTitle" = "СОЗДАТЬ";
+
+/* Class = "UIButton"; normalTitle = "ЛЕНТА"; ObjectID = "sL8-4A-2AI"; */
+"sL8-4A-2AI.normalTitle" = "ЛЕНТА";
+
+/* Class = "UILabel"; text = "Filter title"; ObjectID = "sPO-KI-Ygr"; */
+"sPO-KI-Ygr.text" = "Filter title";
+
+/* Class = "UILabel"; text = "ФОТО"; ObjectID = "sX5-Vf-7aJ"; */
+"sX5-Vf-7aJ.text" = "ФОТО";
+
+/* Class = "UILabel"; text = "ЛЕНТА"; ObjectID = "skC-UD-kw5"; */
+"skC-UD-kw5.text" = "ЛЕНТА";
+
+/* Class = "UILabel"; text = "Навсегда. Даже когда в будущем в тему будут добавляться новые картинки"; ObjectID = "t0j-i3-mwo"; */
+"t0j-i3-mwo.text" = "Навсегда. Даже когда в будущем в тему будут добавляться новые картинки";
+
+/* Class = "UILabel"; text = "SocialNetwork"; ObjectID = "vDF-TC-VGi"; */
+"vDF-TC-VGi.text" = "SocialNetwork";
+
+/* Class = "UIButton"; normalTitle = "username"; ObjectID = "voX-vm-JV8"; */
+"voX-vm-JV8.normalTitle" = "username";
+
+/* Class = "UILabel"; text = "Set title"; ObjectID = "yBX-Fs-Jwm"; */
+"yBX-Fs-Jwm.text" = "Set title";
+
+"LO4-Hc-meW.normalTitle" = "НАШИ ПРИЛОЖЕНИЯ";

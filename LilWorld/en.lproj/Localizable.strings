@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  LilWorld
+
+  Created by Roman Fedyanin on 09/03/16.
+  Copyright © 2016 Adno. All rights reserved.
+*/
+
+"Common_buyButtonTitle" = "BUY";
+
+"Main_CAPTURE" = "CAPTURE";
+"Main_GALLERY" = "GALLERY";
+
+"Shop_title" = "SHOP";
+
+"About_title" = "ABOUT";
+
+"About_contest_title" = "CONTEST";
+
+"Feed_title" = "FEED";
+
+"Contest_title" = "CONTEST";
+"Contest_submit_title" = "ЗАЯВКА НА КОНКУРС";
+
+"Banner_fullVersionList" = "+ Remove watermark\n+ All themes\n+ All fonts\n+ All sets";
+
+"Filters_brightness" = "Brightness";
+"Filters_contrast" = "Contrast";
+"Filters_saturation" = "Saturation";
+
+"Share_newButtonTitle" = "NEW";
+"Share_other" = "Other";
+"Share_saveOnPhoto" = "Save in photos";
+"Share_kinderContest" = "Participate in KINDER contest";
+
+"SetVC_titleMain" = "MAIN";
+"SetVC_titleExtra" = "EXTRA";
+
+"EditorVC_ownTextButtonTitle" = "OWN TEXT";
+
+"Alerts_loadLastSessionTitle" = "Hey, wassup?";
+"Alerts_loadLastSessionMessage" = "Load last session?";
+
+"Alerts_maxAnimationsTitle" = "The limit of animation stickers is 5.";
+"Alerts_maxAnimationsMessage" = "Please, remove one of the stickers from your current project for adding a new one.";
+
+"Alerts_startOverTitle" = "Start over?";
+"Alerts_startOverMessage" = "Are you sure? Your current edit will be lost";
+"Alerts_startOverNo" = "No";
+"Alerts_startOverYes" = "Yes";
+
+"Alerts_startNewTitle" = "Start new project?";
+"Alerts_startNewMessage" = "Your current edit will be lost";
+"Alerts_startNewNo" = "No";
+"Alerts_startNewYes" = "Yes";
+
+"Alerts_restorePurchasesSuccessTitle" = "Success";
+"Alerts_restorePurchasesSuccessMessage" = "All purchases restored";
+"Alerts_restorePurchasesErrorTitle" = "Error";
+"Alerts_restorePurchasesErrorMessage" = "Something went wrong during the restoration of purchases";
+
+"Alerts_shareInstagramErrorTitle" = "Instagram";
+"Alerts_shareInstagramErrorMessage" = "Please install the official Instagram app to share";
+"Alerts_shareTumblrErrorTitle" = "Tumblr";
+"Alerts_shareTumblrErrorMessage" = "Please install the official Tumblr app to share";
+"Alerts_shareFacebookErrorTitle" = "Accounts";
+"Alerts_shareFacebookErrorMessage" = "Please login to a Facebook account to share";
+"Alerts_shareTwitterErrorTitle" = "Accounts";
+"Alerts_shareTwitterErrorMessage" = "Please login to a Twitter account to share";
+
+"Alerts_shareSaveOnPhotoSuccessTitle" = "Success";
+"Alerts_shareSaveOnPhotoSuccessMessage" = "Successfully saved in photos";
+
+"Alerts_noAccessCameraTitle" = "No access to your camera";
+"Alerts_noAccessCameraMessage" = "Please give us access to your camera in Settings. Proceed to Settings?";
+"Alerts_noAccessCameraNo" = "No";
+"Alerts_noAccessCameraYes" = "Yes";
+"Alerts_noAccessPhotoLibraryTitle" = "No access to your photos";
+"Alerts_noAccessPhotoLibraryMessage" = "Please give us access to your photo library in Settings. Proceed to Settings?";
+"Alerts_noAccessPhotoLibraryNo" = "No";
+"Alerts_noAccessPhotoLibraryYes" = "Yes";
+
+"Alerts_purchaseErrorTitle" = "Error";
+"Alerts_purchaseErrorMessage" = "Something went wrong during the purchase. Please, try again later.";
+"Alerts_restorePurchasesErrorTitle" = "Error";
+"Alerts_restorePurchasesErrorMessage" = "Something went wrong during restoring of purchases. Please, try again later.";
+
+"Alerts_emptyTextErrorTitle" = "No text";
+"Alerts_emptyTextErrorMessage" = "You need to write something";
+
+/*Push Request Alert*/
+"pushrequest_alert_title" = "Stay tuned with LilWorld!";
+"pushrequest_alert_message" = "Turn on notifications to be the first to know about new stickers and contests.";
+"pushrequest_alert_yesbutton_title" = "Turn on";
+"pushrequest_alert_nobutton_title" = "Later";

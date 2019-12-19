@@ -1,0 +1,29 @@
+/* 
+  Appirater.strings
+  LilWorld
+
+  Created by Aleksandr Novikov on 28.09.16.
+  Copyright © 2016 Adno. All rights reserved.
+*/
+
+"appirater_cancel_button_title" = "Отменить";
+
+/*Appirater Alert*/
+"appirater_alert_title" = "Нравится LilWorld?";
+"appirater_alert_message" = "Если да, то оцени его и оставь отличный отзыв. Тем, кто создавал его, будет приятно!";
+"appirater_alert_nobutton_title" = "Нет";
+"appirater_alert_yesbutton_title"  = "Да, круто!";
+
+/*Appirater Review Alert*/
+"appirater_review_alert_title" = "Нет? А почему?";
+"appirater_review_alert_message" = "Напишите нам свои пожелания и мы внесём их специально для вас.";
+"appirater_review_alert_label_placeholder" = "Email";
+"appirater_review_alert_nobutton_title" = "Нет, спасибо";
+"appirater_review_alert_submitbutton_title" = "Отправить";
+
+/*Appirater Thank You Alert*/
+"appirater_thankyou_alert_title" = "Спасибо за то, что уделили время и оставили отзыв!";
+
+/*Support Review Alert*/
+"support_review_alert_title" = "Есть идеи как сделать LilWorld лучше?";
+"support_review_alert_message" = "Поделитесь с нами и мы внесём изменения, чтобы пользоваться приложением стало ещё приятнее!";

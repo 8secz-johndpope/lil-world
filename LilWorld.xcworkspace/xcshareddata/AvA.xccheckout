@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E6A9342-9A62-454B-9132-E293876C2499</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AvA</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F5F0C0D82F3C5FE29691023F98C4F2861CA269C1</key>
+		<string>https://bitbucket.org/rfedyanin/ava.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AvA.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F5F0C0D82F3C5FE29691023F98C4F2861CA269C1</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/rfedyanin/ava.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F5F0C0D82F3C5FE29691023F98C4F2861CA269C1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F5F0C0D82F3C5FE29691023F98C4F2861CA269C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AvA</string>
+		</dict>
+	</array>
+</dict>
+</plist>

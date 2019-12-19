@@ -1,0 +1,6 @@
+framework module Pods_LilWorld {
+  umbrella header "Pods-LilWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}

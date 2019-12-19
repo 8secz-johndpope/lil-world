@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  LilWorld
+
+  Created by Roman Fedyanin on 09/03/16.
+  Copyright © 2016 Adno. All rights reserved.
+*/
+
+"Common_buyButtonTitle" = "КУПИТЬ";
+
+"Main_CAPTURE" = "ФОТО";
+"Main_GALLERY" = "ГАЛЕРЕЯ";
+
+"Shop_title" = "МАГАЗИН";
+
+"About_title" = "О ПРИЛОЖЕНИИ";
+
+"About_contest_title" = "О КОНКУРСЕ";
+
+"Feed_title" = "ЛЕНТА";
+
+"Contest_title" = "КОНКУРС";
+"Contest_submit_title" = "ЗАЯВКА НА КОНКУРС";
+
+"Banner_fullVersionList" = "+ Без водяного знака\n+ Все темы\n+ Все шрифты\n+ Все сеты";
+
+"Filters_brightness" = "Яркость";
+"Filters_contrast" = "Контраст";
+"Filters_saturation" = "Насыщенность";
+
+"Share_newButtonTitle" = "НОВЫЙ ПРОЕКТ";
+"Share_other" = "Другое";
+"Share_saveOnPhoto" = "Сохранить в фото";
+"Share_kinderContest" = "Участвовать в конкурсе от KINDER";
+
+"SetVC_titleMain" = "ОСНОВНОЕ";
+"SetVC_titleExtra" = "ДРУГОЕ";
+
+"EditorVC_ownTextButtonTitle" = "НАДПИСЬ";
+
+"Alerts_loadLastSessionTitle" = "Приветствую!";
+"Alerts_loadLastSessionMessage" = "Загрузить последний незавершенный сеанс?";
+
+"Alerts_maxAnimationsTitle" = "Вы не можете добавлять более пяти анимированных стикеров в один проект.";
+"Alerts_maxAnimationsMessage" = "Пожалуйста, удалите один из стикеров в текущем проекте, чтобы добавить новый.";
+
+"Alerts_startOverTitle" = "Начать заново?";
+"Alerts_startOverMessage" = "Вы уверены? Ваш проект удалится";
+"Alerts_startOverNo" = "Нет";
+"Alerts_startOverYes" = "Да";
+
+"Alerts_startNewTitle" = "Начать новый проект?";
+"Alerts_startNewMessage" = "Текущий проект удалится";
+"Alerts_startNewNo" = "Нет";
+"Alerts_startNewYes" = "Да";
+
+"Alerts_restorePurchasesSuccessTitle" = "Успешно";
+"Alerts_restorePurchasesSuccessMessage" = "Все покупки восстановлены";
+"Alerts_restorePurchasesErrorTitle" = "Ошибка";
+"Alerts_restorePurchasesErrorMessage" = "Что-то пошло не так. Пожалуйста, повторите попытку";
+
+"Alerts_shareInstagramErrorTitle" = "Instagram";
+"Alerts_shareInstagramErrorMessage" = "Установите приложение Instagram для того чтобы делиться фотографиями";
+"Alerts_shareTumblrErrorTitle" = "Tumblr";
+"Alerts_shareTumblrErrorMessage" = "Установите приложение Tumblr для того чтобы делиться фотографиями";
+"Alerts_shareFacebookErrorTitle" = "Аккаунт";
+"Alerts_shareFacebookErrorMessage" = "Войдите в Facebook аккаунт для того чтобы делиться фотографиями";
+"Alerts_shareTwitterErrorTitle" = "Аккаунт";
+"Alerts_shareTwitterErrorMessage" = "Войдите в Facebook аккаунт для того чтобы делиться фотографиями";
+
+"Alerts_shareSaveOnPhotoSuccessTitle" = "Ура!";
+"Alerts_shareSaveOnPhotoSuccessMessage" = "Успешно сохранено в фото";
+
+"Alerts_noAccessCameraTitle" = "Нет доступа к камере";
+"Alerts_noAccessCameraMessage" = "Необходимо открыть доступ к камере. Открыть настройки?";
+"Alerts_noAccessCameraNo" = "Нет";
+"Alerts_noAccessCameraYes" = "Да";
+"Alerts_noAccessPhotoLibraryTitle" = "Нет доступа к галерее";
+"Alerts_noAccessPhotoLibraryMessage" = "Необходимо открыть доступ к галерее. Открыть настройки?";
+"Alerts_noAccessPhotoLibraryNo" = "Нет";
+"Alerts_noAccessPhotoLibraryYes" = "Да";
+
+"Alerts_purchaseErrorTitle" = "Ошибка";
+"Alerts_purchaseErrorMessage" = "Что-то пошло не так во время покупки. Пожалуйста, попробуйте еще раз позднее";
+"Alerts_restorePurchasesErrorTitle" = "Ошибка";
+"Alerts_restorePurchasesErrorMessage" = "Что-то пошло не так во время восстановления покупок. Пожалуйста, попробуйте еще раз позднее";
+
+"Alerts_emptyTextErrorTitle" = "Нет текста!";
+"Alerts_emptyTextErrorMessage" = "Необходимо написать что-нибудь";
+
+/*Push Request Alert*/
+"pushrequest_alert_title" = "Всегда будьте в курсе!";
+"pushrequest_alert_message" = "Включите пуш-уведомления, чтобы первыми узнавать о новых стикерах и конкурсах";
+"pushrequest_alert_yesbutton_title" = "Включить";
+"pushrequest_alert_nobutton_title" = "Нет";
